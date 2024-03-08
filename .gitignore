@@ -1,6 +1,3 @@
-# Prerequisites
-*.d
-
 # Compiled Object files
 *.slo
 *.lo
@@ -30,3 +27,16 @@
 *.exe
 *.out
 *.app
+
+# Temporary files
+*.swp
+*~
+
+# Arduino
+.pioenvs
+.piolibdeps
+.vscode
+
+# OS-specific files
+.DS_Store
+Thumbs.db
